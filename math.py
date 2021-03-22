@@ -9,11 +9,11 @@ def subtract(x,y):
 
 #how are you?
 def multiply(x,y):
-<<<<<<< Updated upstream
+
 	return x*y
 def divide(x,y):
 	return x/y
-=======
+
 	pass
 
 #hieee
@@ -25,8 +25,8 @@ def divide(x,y):
 ##hello how are you??
 
 
->>>>>>> Stashed changes
 
+hiiii
 
 #square implementation:
 

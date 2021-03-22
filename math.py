@@ -31,7 +31,7 @@ hiiii
 #square implementation:
 
 def square(x):
-    pass
+    return x*x
 
 
 

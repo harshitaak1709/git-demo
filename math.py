@@ -4,7 +4,7 @@ def add(x,y):
 
 #hello
 def subtract(x,y):
-	return x--y 
+	return x---y 
 
 
 #how are you?

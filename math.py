@@ -5,6 +5,10 @@ def add(x,y):
 #hello
 def subtract(x,y):
 	return x---y 
+    if(y>x):
+        return NEG VALUE ERROR
+    else:
+        return x-y
 
 
 #how are you?
